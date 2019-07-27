@@ -1,10 +1,10 @@
-#mainankita :
+# Mainankita :
 
-Selamat Dstang di MainanKita
+Selamat Datang di MainanKita
 
 sebuah wadah tempat belajar seputar teknologi baik itu programming, cloud computing, design grafis, ui/ux dan masih banyak lagi.
 
-#untuk teknologi yang di gunakan untuk mengembangkan web mainankita adalah :
+# Untuk teknologi yang di gunakan untuk mengembangkan web mainankita adalah :
 
 ```bash
 HTML
@@ -13,7 +13,7 @@ JAVASCRIPT
 BOOTSTRAP
 ```
 
-#untuk menjalankan web mainankita cukup dengan perintah berikut :
+# Untuk menjalankan web mainankita cukup dengan perintah berikut :
 
 
 ```bash
