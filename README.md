@@ -1,21 +1,16 @@
-# Mainankita :
+# Mainankita
 
 Selamat Datang di MainanKita
 
-sebuah wadah tempat belajar seputar teknologi baik itu programming, cloud computing, design grafis, ui/ux dan masih banyak lagi.
+## Getting Started
 
-# Untuk teknologi yang di gunakan untuk mengembangkan web mainankita adalah :
+Sebuah wadah tempat belajar seputar teknologi baik itu programming, cloud computing, design grafis, ui/ux dan lain-lain.
 
-```bash
 HTML
 CSS
 JAVASCRIPT
 BOOTSTRAP
-```
 
-# Untuk menjalankan web mainankita cukup dengan perintah berikut :
+## Usage
 
-
-```bash
-git clone <https://github.com/AndreMessi/mainankita.git>
-```
+git clone https://github.com/AndreMessi/mainankita.git
